@@ -10,4 +10,9 @@ change 2
 >>>>>>> idea
 
 Change 4
+<<<<<<< HEAD
 change 5 // local change
+=======
+
+Change 5
+>>>>>>> 1a789af3f75a8cfa84a09aa4f3d00530e7129c6d
