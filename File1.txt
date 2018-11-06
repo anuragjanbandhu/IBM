@@ -3,6 +3,11 @@ Hey .... This is Git !!!!! Welcom ..!!!@@
 
 change 2
 
+<<<<<<< HEAD
 ******>>>>Change 3<<<<<****** lolololol
+=======
+******>>>>Change 3<<<<<******
+>>>>>>> idea
 
 Change 4
+change 5 // local change
